@@ -11,9 +11,6 @@
         },
         "drupal/warmer_view_mode": {
             "warmer_views_mode -> QueryInterface::accessCheck() is missing": "https://www.drupal.org/files/issues/2023-10-06/3392161-accessCheck-is-missing.patch"
-        },
-        "drupal/responsive_menu": {
-            "add missing Library definition for toolbar/toolbar": "https://www.drupal.org/files/issues/2023-11-29/3404945-2.patch"
         }
     }
 }
